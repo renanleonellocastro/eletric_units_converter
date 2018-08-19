@@ -1,6 +1,7 @@
 Linux bash application to convert eletric units.
 
 This application is able to convert Watts do Dbm.
+
 This application is able to convert Dbm to Watts.
 
 1-) To convert Watt to Dbm execute:
